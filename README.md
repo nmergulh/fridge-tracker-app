@@ -1,8 +1,10 @@
 # Fridge Tracker App (Team Dynamic Koalas)
 
+<p float="left">
 <img src="https://raw.githubusercontent.com/nmergulh/fridge-tracker-app/main/assets/objectdetection.png" height="210px" width="120px">
 <img src="https://raw.githubusercontent.com/nmergulh/fridge-tracker-app/main/assets/barcodescanner.png" height="210px" width="120px">
 <img src= "https://raw.githubusercontent.com/nmergulh/fridge-tracker-app/main/assets/fridgelist.png" height="210px" width="120px">
+</p>
 
 ## Setup Instructions
 
