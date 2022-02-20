@@ -1,8 +1,8 @@
 # Fridge Tracker App (Team Dynamic Koalas)
 
-<img src="https://raw.githubusercontent.com/nmergulh/nmergulh/main/assets/objectdetection.png">
-<img src="https://raw.githubusercontent.com/nmergulh/nmergulh/main/assets/barcodescanner.png">
-<img src= "https://raw.githubusercontent.com/nmergulh/nmergulh/main/assets/fridgelist.png">
+<img src="https://raw.githubusercontent.com/nmergulh/fridge-tracker-app/main/assets/objectdetection.png">
+<img src="https://raw.githubusercontent.com/nmergulh/fridge-tracker-app/main/assets/barcodescanner.png">
+<img src= "https://raw.githubusercontent.com/nmergulh/fridge-tracker-app/main/assets/fridgelist.png">
 
 ## Setup Instructions
 
