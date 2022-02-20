@@ -1,5 +1,9 @@
 # Fridge Tracker App (Team Dynamic Koalas)
 
+<img src="https://raw.githubusercontent.com/nmergulh/nmergulh/main/assets/objectdetection.png">
+<img src="https://raw.githubusercontent.com/nmergulh/nmergulh/main/assets/barcodescanner.png">
+<img src= "https://raw.githubusercontent.com/nmergulh/nmergulh/main/assets/fridgelist.png">
+
 ## Setup Instructions
 
 The app is currently not hosted yet. You will need the following prerequisites:
